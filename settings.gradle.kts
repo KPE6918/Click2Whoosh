@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Click2Whoosh"
-include ':app'
+include(":app")
